@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-invie
-=======
 # invie-github
-Tus mejores guitarras invie-sibles
->>>>>>> origin/master
+Tus mejores guitarras invie-sibles by @Platzi
